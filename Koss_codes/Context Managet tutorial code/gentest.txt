@@ -1,0 +1,1 @@
+Yeah generator method to create context manager works fine too
